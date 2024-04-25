@@ -1,0 +1,2 @@
+# PDF_Summarization_App_using_LLM
+This is PDF_Summarization_App_using_LLMon CPU
